@@ -4146,4 +4146,18 @@ This page provides a comprehensive overview of common sorting algorithms in C, t
 
 Sorting algorithms are fundamental in computer science for arranging data in a particular order. Below are common sorting algorithms implemented in C, along with their time complexities and brief explanations.
 
-Standard library function in C:
+#Common C Problems
+
+<img width="1152" height="681" alt="Doubley link list" src="https://github.com/user-attachments/assets/37c5f14d-eded-4966-a72b-c91f9b33472c" />
+
+<img width="1152" height="681" alt="Queue" src="https://github.com/user-attachments/assets/2baa820b-675f-466b-b921-99afaaebe5e5" />
+
+<img width="1152" height="681" alt="Sort" src="https://github.com/user-attachments/assets/f9288457-b57e-4629-aec6-38551a5e8c38" />
+
+<img width="1152" height="681" alt="Stack" src="https://github.com/user-attachments/assets/04e965ed-32a4-44ad-9cde-21948db57011" />
+
+<img width="1152" height="681" alt="String-1" src="https://github.com/user-attachments/assets/cdfbafa9-7f51-471d-acfc-b5cb1871e609" />
+
+
+
+
